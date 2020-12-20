@@ -24,35 +24,6 @@
     <None Remove="Views\FreelancerUsers\**" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Compile Remove="Controllers\AdminstratorsController.cs" />
-    <Compile Remove="Controllers\BidsController.cs" />
-    <Compile Remove="Controllers\CategoriesController.cs" />
-    <Compile Remove="Controllers\FreelancerUsersController.cs" />
-    <Compile Remove="Controllers\JobsController.cs" />
-<<<<<<< HEAD
-    <Compile Remove="Migrations\20201219054958_FreelancerTrial3.cs" />
-    <Compile Remove="Migrations\20201219054958_FreelancerTrial3.Designer.cs" />
-||||||| 42140b4
-=======
-    <Compile Remove="Migrations\20201207094438_FrelancerTrial.cs" />
-    <Compile Remove="Migrations\20201207094438_FrelancerTrial.Designer.cs" />
-    <Compile Remove="Migrations\20201211115854_FreelancerTrial2.cs" />
-    <Compile Remove="Migrations\20201211115854_FreelancerTrial2.Designer.cs" />
-    <Compile Remove="Migrations\20201218202744_FreelancerTrail3.cs" />
-    <Compile Remove="Migrations\20201218202744_FreelancerTrail3.Designer.cs" />
-    <Compile Remove="Migrations\20201218223754_PhotoDatatypeChanged.cs" />
-    <Compile Remove="Migrations\20201218223754_PhotoDatatypeChanged.Designer.cs" />
-    <Compile Remove="Migrations\20201218225300_NewFromScratch.cs" />
-    <Compile Remove="Migrations\20201218225300_NewFromScratch.Designer.cs" />
-    <Compile Remove="Migrations\20201219060814_enumuratedTypeAdded.cs" />
-    <Compile Remove="Migrations\20201219060814_enumuratedTypeAdded.Designer.cs" />
->>>>>>> e9090f6e418297e669cdd96151cc1b2bd1b5c719
-    <Compile Remove="Models\Adminstrator.cs" />
-    <Compile Remove="Models\BussinessAnalyst.cs" />
-    <Compile Remove="Models\ProjectManager.cs" />
-    <Compile Remove="Models\QualityController.cs" />
-  </ItemGroup>
 
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.Authentication.Google" Version="3.1.9" />
