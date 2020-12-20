@@ -1,0 +1,117 @@
+﻿@model FreelanceTech.Models.Job
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h2>Create</h2>
+
+<h4>Job</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="jobId" class="control-label"></label>
+                <input asp-for="jobId" class="form-control" />
+                <span asp-validation-for="jobId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="status" class="control-label"></label>
+                <input asp-for="status" class="form-control" />
+                <span asp-validation-for="status" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="title" class="control-label"></label>
+                <input asp-for="title" class="form-control" />
+                <span asp-validation-for="title" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="category" class="control-label"></label>
+                <input asp-for="category" class="form-control" />
+                <span asp-validation-for="category" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="startDate" class="control-label"></label>
+                <input asp-for="startDate" class="form-control" />
+                <span asp-validation-for="startDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="endDate" class="control-label"></label>
+                <input asp-for="endDate" class="form-control" />
+                <span asp-validation-for="endDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="startPrice" class="control-label"></label>
+                <input asp-for="startPrice" class="form-control" />
+                <span asp-validation-for="startPrice" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="endPrice" class="control-label"></label>
+                <input asp-for="endPrice" class="form-control" />
+                <span asp-validation-for="endPrice" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="level" class="control-label"></label>
+                <input asp-for="level" class="form-control" />
+                <span asp-validation-for="level" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Payment_Amount" class="control-label"></label>
+                <input asp-for="Payment_Amount" class="form-control" />
+                <span asp-validation-for="Payment_Amount" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="customerId" class="control-label"></label>
+                <select asp-for="customerId" class ="form-control" asp-items="ViewBag.customerId"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="freelancerId" class="control-label"></label>
+                <input asp-for="freelancerId" class="form-control" />
+                <span asp-validation-for="freelancerId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="contractId" class="control-label"></label>
+                <input asp-for="contractId" class="form-control" />
+                <span asp-validation-for="contractId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="businessAnalystId" class="control-label"></label>
+                <input asp-for="businessAnalystId" class="form-control" />
+                <span asp-validation-for="businessAnalystId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="comment" class="control-label"></label>
+                <input asp-for="comment" class="form-control" />
+                <span asp-validation-for="comment" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="rate" class="control-label"></label>
+                <input asp-for="rate" class="form-control" />
+                <span asp-validation-for="rate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="description" class="control-label"></label>
+                <input asp-for="description" class="form-control" />
+                <span asp-validation-for="description" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="postedDate" class="control-label"></label>
+                <input asp-for="postedDate" class="form-control" />
+                <span asp-validation-for="postedDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-default" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

@@ -1,0 +1,456 @@
+﻿@model FreelanceTech.Models.Freelancer
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <!-- Meta, title, CSS, favicons, etc. -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>FreelanceTech </title>
+
+    <!-- Bootstrap -->
+    <link href="~/gentelella-master/vendors/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Font Awesome -->
+    <link href="~/gentelella-master/vendors/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+    <!-- NProgress -->
+    <link href="~/gentelella-master/vendors/nprogress/nprogress.css" rel="stylesheet">
+
+    <!-- Custom Theme Style -->
+    <link href="~/gentelella-master/build/css/custom.min.css" rel="stylesheet">
+</head>
+
+<body class="nav-md">
+    <div class="container body">
+
+
+        <!-- page content -->
+        <div class="right_col" role="main">
+            <div class="">
+                <div class="page-title">
+                    <div class="title_left">
+                        <h3>Account Setup</h3>
+                    </div>
+                    <div class="clearfix"></div>
+
+                    <div class="row">
+
+                        <div class="col-md-12 col-sm-12 ">
+                            <div class="x_panel">
+
+                                <div class="x_content">
+
+
+                                    <!-- Smart Wizard -->
+                                    <p>Fill out these basic Information to setup your account.</p>
+                                    <div id="wizard" class="form_wizard wizard_horizontal">
+                                        <ul class="wizard_steps">
+                                            <li>
+                                                <a href="#step-1">
+                                                    <span class="step_no">1</span>
+                                                    <span class="step_descr">
+                                                        Step 1<br />
+                                                        <medium>What do you do?</medium>
+                                                    </span>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="#step-2">
+                                                    <span class="step_no">2</span>
+                                                    <span class="step_descr">
+                                                        Step 2<br />
+                                                        <Medium>Education</Medium>
+                                                    </span>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="#step-3">
+                                                    <span class="step_no">3</span>
+                                                    <span class="step_descr">
+                                                        Step 3<br />
+                                                        <medium>Experience</medium>
+                                                    </span>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="#step-4">
+                                                    <span class="step_no">4</span>
+                                                    <span class="step_descr">
+                                                        Step 4<br />
+                                                        <medium>Language</medium>
+                                                    </span>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="#step-5">
+                                                    <span class="step_no">5</span>
+                                                    <span class="step_descr">
+                                                        Step 5<br />
+                                                        <medium>Hourly Rate</medium>
+                                                    </span>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="#step-6">
+                                                    <span class="step_no">6</span>
+                                                    <span class="step_descr">
+                                                        Step 6<br />
+                                                        <medium>Professional Overview</medium>
+                                                    </span>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="#step-7">
+                                                    <span class="step_no">7</span>
+                                                    <span class="step_descr">
+                                                        Step 7<br />
+                                                        <medium>Profile Photo</medium>
+                                                    </span>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="#step-8">
+                                                    <span class="step_no">8</span>
+                                                    <span class="step_descr">
+                                                        Step 8<br />
+                                                        <medium>Location</medium>
+                                                    </span>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="#step-9">
+                                                    <span class="step_no">9</span>
+                                                    <span class="step_descr">
+                                                        Step 9<br />
+                                                        <medium>Phone Number</medium>
+                                                    </span>
+                                                </a>
+                                            </li>
+                                        </ul>
+                                        <div id="step-1">
+                                            <form class="form-horizontal form-label-left">
+                                                <div class="form-group row">
+                                                    <label class="col-form-label col-md-3 col-sm-3 label-align">
+                                                        Choose Category <span class="required">*</span>
+                                                    </label>
+                                                    <div class="col-md-6 col-sm-6 ">
+                                                        <select class="form-control">
+                                                            <option>Choose Category</option>
+                                                            <option>Option one</option>
+                                                            <option>Option two</option>
+                                                            <option>Option three</option>
+                                                            <option>Option four</option>
+                                                        </select>
+                                                    </div>
+                                                </div>
+
+                                                <div class="form-group row">
+                                                    <label class="col-form-label col-md-3 col-sm-3 label-align">
+                                                        Choose Skill <span class="required">*</span>
+                                                    </label>
+                                                    <div class="col-md-6 col-sm-6 ">
+                                                        <select class="form-control">
+                                                            <option>Choose Skill</option>
+                                                            <option>Option one</option>
+                                                            <option>Option two</option>
+                                                            <option>Option three</option>
+                                                            <option>Option four</option>
+                                                        </select>
+                                                    </div>
+
+                                                </div>
+                                                <div class="form-group row">
+
+                                                    <label class="col-form-label col-md-3 col-sm-3 label-align">
+                                                        What is your Skill Level? <span class="required">*</span>
+                                                    </label>
+                                                    <div class="col-md-6 col-sm-6 ">
+                                                        <div class="row">
+                                                            <div class="btn-group form-check" data-toggle="buttons">
+                                                                <div class="row">
+                                                                    <div class="btn-group form-check" data-toggle="buttons">
+                                                                        <label class="btn btn-secondary button-choice active">
+                                                                            <input asp-for="Expertise" type="radio" class="join-btn" name="options" id="option1"> Begginer
+                                                                        </label>
+                                                                        <label class="btn btn-secondary button-choice">
+                                                                            <input type="radio" name="options" class="join-btn" id="option2"> Intermediate
+                                                                        </label>
+                                                                        <label class="btn btn-secondary button-choice">
+                                                                            <input type="radio" name="options" class="join-btn" id="option3"> Expert
+                                                                        </label>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+
+                                            </form>
+
+                                        </div>
+
+                                        <div id="step-2">
+                                            <h2 class="StepTitle">Educational Background</h2>
+                                            <div class="col-md-9 col-sm-9 ">
+                                                <textarea asp-for="education" class="resizable_textarea form-control" placeholder="Describe your Educational Background in detail"></textarea>
+                                                <a href="#step-4">Skip this step</a>
+                                            </div>
+                                        </div>
+                                        <div id="step-3">
+                                            <h2 class="StepTitle">Experience</h2>
+
+                                            <div class="form-group row">
+                                                <label class="col-form-label col-md-3 col-sm-3 label-align" for="Company">
+                                                    Company <span class="required">*</span>
+                                                </label>
+                                                <div class="col-md-6 col-sm-6 ">
+                                                    <input asp-for="Experience.companyName" type="text" id="company" required="required" class="form-control  ">
+                                                </div>
+                                            </div>
+
+                                            <div class="form-group row">
+                                                <label for="title" class="col-form-label col-md-3 col-sm-3 label-align">Title</label>
+                                                <div class="col-md-6 col-sm-6 ">
+                                                    <input asp-for="Experience.title" id="title" class="form-control col" type="text">
+                                                </div>
+                                            </div>
+
+                                            <div class="form-group row">
+                                                <label class="col-form-label col-md-3 col-sm-3 label-align">
+                                                    From <span class="required">*</span>
+                                                </label>
+                                                <div class="col-md-9 col-sm-9 ">
+                                                    <input asp-for="Experience.startDate" class="date-picker form-control" placeholder="dd-mm-yyyy" type="text" required="required" onfocus="this.type='date'" onmouseover="this.type='date'" onclick="this.type='date'" onblur="this.type='text'" onmouseout="timeFunctionLong(this)">
+                                                    <script>
+                                                        function timeFunctionLong(input) {
+                                                            setTimeout(function () {
+                                                                input.type = 'text';
+                                                            }, 60000);
+                                                        }
+                                                    </script>
+                                                </div>
+
+                                            </div>
+                                            <div class="form-group row">
+
+
+                                                <label class="col-form-label col-md-3 col-sm-3 label-align">
+                                                    To <span class="required">*</span>
+                                                </label>
+                                                <div class="col-md-9 col-sm-2 ">
+                                                    <input asp-for="Experience.endDate" class="date-picker form-control" placeholder="dd-mm-yyyy" type="text" required="required" onfocus="this.type='date'" onmouseover="this.type='date'" onclick="this.type='date'" onblur="this.type='text'" onmouseout="timeFunctionLong(this)">
+                                                    <script>
+                                                        function timeFunctionLong(input) {
+                                                            setTimeout(function () {
+                                                                input.type = 'text';
+                                                            }, 60000);
+                                                        }
+                                                    </script>
+                                                </div>
+
+                                            </div>
+                                            <div class="form-group row">
+                                                <label class="col-form-label col-md-3 col-sm-3 label-align">
+                                                    Description <span class="required">*</span>
+                                                </label>
+                                                <div class="col-md-9 col-sm-9 ">
+                                                    <textarea asp-for="Experience.description" class="resizable_textarea form-control" placeholder="Describe your Work Experience"></textarea>
+                                                </div>
+                                            </div>
+
+                                        </div>
+                                        <div id="step-4">
+                                            <div class="form-group row">
+                                                <label class="control-label col-md-3 col-sm-3 ">What is your English Proficiency?</label>
+                                                <div class="col-md-9 col-sm-9 ">
+                                                    <select class="form-control">
+                                                        <option>Choose option</option>
+                                                        <option>Beginner</option>
+                                                        <option>Fluent</option>
+                                                        <option>Native</option>
+
+                                                    </select>
+                                                </div>
+                                            </div>
+                                            <div class="form-group row">
+                                                <label class="control-label col-md-3 col-sm-3 ">What other Languages do you speak?</label>
+                                                <div class="col-md-9 col-sm-9 ">
+                                                    <select class="form-control">
+                                                        <option>Choose option</option>
+                                                        <option>Amharic</option>
+                                                        <option>Tigrigna</option>
+                                                        <option>Oromifa</option>
+                                                        <option>Somali</option>
+                                                    </select>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div id="step-5">
+                                            <div class="form-group row">
+                                                <label class="col-form-label col-md-3 col-sm-3 label-align" for="payment">
+                                                    Hourly Payment <span class="required">*</span>
+                                                </label>
+                                                <div class="col-md-6 col-sm-6 ">
+                                                    <input asp-for="hourlyRate" type="text" id="payment" required="required" class="form-control ">
+                                                </div>
+                                                <label class="col-form-label col-md-3 col-sm-3 " for="payment">
+                                                    Birr /hr <span class="required"></span>
+                                                </label>
+
+                                            </div>
+
+                                            <div class="form-group row">
+                                                <label class="col-form-label col-md-3 col-sm-3 label-align" for="payment">
+                                                    Service Fee (15%) <span class="required"></span>
+                                                </label>
+                                                <div class="col-md-6 col-sm-6 ">
+                                                    <input disabled type="text" id="service_payment" required="required" class="form-control ">
+                                                </div>
+                                                <label class="col-form-label col-md-3 col-sm-3 " for="payment">
+                                                    Birr /hr <span class="required"></span>
+                                                </label>
+                                            </div>
+                                            <div class="form-group row">
+                                                <label class="col-form-label col-md-3 col-sm-3 label-align" for="payment">
+                                                    You'll Receive <span class="required"></span>
+                                                </label>
+                                                <div class="col-md-6 col-sm-6 ">
+                                                    <input disabled type="text" id="receive_payment" required="required" class="form-control ">
+                                                </div>
+                                                <label class="col-form-label col-md-3 col-sm-3 " for="payment">
+                                                    Birr /hr <span class="required"></span>
+                                                </label>
+                                            </div>
+                                        </div>
+                                        <div id="step-6">
+                                            <div class="form-group row">
+                                                <label class="col-form-label col-md-3 col-sm-3 label-align">
+                                                    Professional Overview <span class="required">*</span>
+                                                </label>
+                                                <div class="col-md-9 col-sm-9 ">
+                                                    <textarea asp-for="professionalOverview" class="resizable_textarea form-control" placeholder="Highlight your top skills, experience and interests. This will appear in your profile for customers."></textarea>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div id="step-7">
+                                            <div class="form-group row">
+                                                <label class="col-form-label col-md-3 col-sm-3 label-align">
+                                                    Upload a professional portrait showing face <span class="required">*</span>
+                                                </label>
+                                                <div class="x_content">
+                                                    <p>Drag multiple files to the box below for multi upload or click to select files. This is for demonstration purposes only, the files are not uploaded to any server.</p>
+                                                    <form action="form_upload.html" class="dropzone dz-clickable">
+                                                        <div class="dz-default dz-message">
+                                                            <span>Drop files here to upload</span>
+                                                        </div>
+                                                    </form>
+                                                    <br>
+                                                    <br>
+                                                    <br>
+                                                    <br>
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                        <div id="step-8">
+                                            <div class="form-group row">
+                                                <label class="col-form-label col-md-3 col-sm-3 label-align" for="Location">
+                                                    Region <span class="required">*</span>
+                                                </label>
+                                                <div class="col-md-6 col-sm-6 ">
+                                                    <input asp-for="Address.region" type="text" id="region" required="required" class="form-control ">
+                                                </div>
+                                            </div>
+                                            <div class="form-group row">
+                                                <label class="col-form-label col-md-3 col-sm-3 label-align" for="City">
+                                                    City <span class="required">*</span>
+                                                </label>
+                                                <div class="col-md-6 col-sm-6 ">
+                                                    <input asp-for="Address.city" type="text" id="location" required="required" class="form-control ">
+                                                </div>
+                                            </div>
+                                            <div class="form-group row">
+                                                <label class="col-form-label col-md-3 col-sm-3 label-align" for="Location">
+                                                    Woreda <span class="required">*</span>
+                                                </label>
+                                                <div class="col-md-6 col-sm-6 ">
+                                                    <input asp-for="Address.woreda" type="text" id="Woreda" required="required" class="form-control ">
+                                                </div>
+                                            </div>
+                                            <div class="form-group row">
+                                                <label class="col-form-label col-md-3 col-sm-3 label-align" for="Location">
+                                                    House Number <span class="required">*</span>
+                                                </label>
+                                                <div class="col-md-6 col-sm-6 ">
+                                                    <input asp-for="Address.houseNumber" type="text" id="House_Number" required="required" class="form-control ">
+                                                </div>
+                                            </div>
+                                            <div class="form-group row">
+                                                <label class="col-form-label col-md-3 col-sm-3 label-align" for="Location">
+                                                    P.O.box <span class="required">*</span>
+                                                </label>
+                                                <div class="col-md-6 col-sm-6 ">
+                                                    <input asp-for="Address.pobox" type="text" id="pobox" required="required" class="form-control ">
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div id="step-9">
+                                            <h2 class="StepTitle">Phone Number</h2>
+                                            <div class="form-group row">
+                                                <label for="title" class="col-form-label col-md-3 col-sm-3 label-align">Phone Number</label>
+                                                <div class="col-md-6 col-sm-6 ">
+                                                    <input asp-for="phoneNumber" id="phonenumber" class="form-control col" type="text">
+                                                </div>
+                                            </div>
+                                        </div>
+
+
+
+                                        <!-- End SmartWizard Content -->
+
+
+
+
+
+
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- /page content -->
+                <!-- footer content -->
+                <footer>
+
+                    <div class="clearfix"></div>
+                </footer>
+                <!-- /footer content -->
+            </div>
+        </div>
+    </div>
+    <!-- jQuery -->
+    <script src="~/gentelella-master/vendors/jquery/dist/jquery.min.js"></script>
+    <!-- Bootstrap -->
+    <script src="~/gentelella-master/vendors/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <!-- FastClick -->
+    <script src="~/gentelella-master/vendors/fastclick/lib/fastclick.js"></script>
+    <!-- NProgress -->
+    <script src="~/gentelella-master/vendors/nprogress/nprogress.js"></script>
+    <!-- jQuery Smart Wizard -->
+    <script src="~/gentelella-master/vendors/jQuery-Smart-Wizard/js/jquery.smartWizard.js"></script>
+    <!-- Dropzone.js -->
+    <script src="~/gentelella-master/vendors/dropzone/dist/min/dropzone.min.js"></script>
+    <!-- Custom Theme Scripts -->
+    <script src="~/gentelella-master/build/js/custom.min.js"></script>
+
+
+</body>
+</html>

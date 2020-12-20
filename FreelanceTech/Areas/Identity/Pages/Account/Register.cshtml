@@ -1,0 +1,34 @@
+﻿@page
+@model RegisterModel
+@{
+    ViewData["Title"] = "Register";
+       Layout = "_signIn(Layout)";
+}
+<div class="login_wrapper">
+    <div id="register">
+        <section class="login_content">
+            <form asp-route-returnUrl="@Model.ReturnUrl" method="post">
+                <h4>Create a new account.</h4>
+
+                <div asp-validation-summary="All" class="text-danger"></div>
+                <div>
+
+                    <input asp-for="Input.Email" class="form-control" placeholder="Email" />
+                    <span type="email" asp-validation-for="Input.Email" class="text-danger"></span>
+                </div>
+                <div>
+
+                    <input asp-for="Input.Password" class="form-control" placeholder="Password" />
+                    <span type="password" asp-validation-for="Input.Password" class="text-danger"></span>
+                </div>
+                <div>
+
+                    <input asp-for="Input.ConfirmPassword" class="form-control" placeholder="Confirm Password" />
+                    <span type="password" asp-validation-for="Input.ConfirmPassword" class="text-danger"></span>
+                </div>
+              
+                    <button type="submit" class="btn btn-primary">Register</button>
+            </form>
+        </section>
+    </div>
+</div>

@@ -1,0 +1,54 @@
+﻿@model FreelanceTech.Models.Customer
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Customer</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.photo)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.photo)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.legalId)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.legalId)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.status)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.status)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.language)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.language)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.phoneNumber)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.phoneNumber)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.englishProficiency)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.englishProficiency)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.customerId">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

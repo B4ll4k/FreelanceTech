@@ -1,0 +1,100 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UserSecretsId>aspnet-FreelanceTech-3CDE0121-DDAE-4458-8C3F-1652777869E0</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Views\Adminstrators\**" />
+    <Compile Remove="Views\Bids\**" />
+    <Compile Remove="Views\Categories\**" />
+    <Compile Remove="Views\FreelancerUsers\**" />
+    <Content Remove="Views\Adminstrators\**" />
+    <Content Remove="Views\Bids\**" />
+    <Content Remove="Views\Categories\**" />
+    <Content Remove="Views\FreelancerUsers\**" />
+    <EmbeddedResource Remove="Views\Adminstrators\**" />
+    <EmbeddedResource Remove="Views\Bids\**" />
+    <EmbeddedResource Remove="Views\Categories\**" />
+    <EmbeddedResource Remove="Views\FreelancerUsers\**" />
+    <None Remove="Views\Adminstrators\**" />
+    <None Remove="Views\Bids\**" />
+    <None Remove="Views\Categories\**" />
+    <None Remove="Views\FreelancerUsers\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Remove="Controllers\AdminstratorsController.cs" />
+    <Compile Remove="Controllers\BidsController.cs" />
+    <Compile Remove="Controllers\CategoriesController.cs" />
+    <Compile Remove="Controllers\FreelancerUsersController.cs" />
+    <Compile Remove="Controllers\JobsController.cs" />
+<<<<<<< HEAD
+    <Compile Remove="Migrations\20201219054958_FreelancerTrial3.cs" />
+    <Compile Remove="Migrations\20201219054958_FreelancerTrial3.Designer.cs" />
+||||||| 42140b4
+=======
+    <Compile Remove="Migrations\20201207094438_FrelancerTrial.cs" />
+    <Compile Remove="Migrations\20201207094438_FrelancerTrial.Designer.cs" />
+    <Compile Remove="Migrations\20201211115854_FreelancerTrial2.cs" />
+    <Compile Remove="Migrations\20201211115854_FreelancerTrial2.Designer.cs" />
+    <Compile Remove="Migrations\20201218202744_FreelancerTrail3.cs" />
+    <Compile Remove="Migrations\20201218202744_FreelancerTrail3.Designer.cs" />
+    <Compile Remove="Migrations\20201218223754_PhotoDatatypeChanged.cs" />
+    <Compile Remove="Migrations\20201218223754_PhotoDatatypeChanged.Designer.cs" />
+    <Compile Remove="Migrations\20201218225300_NewFromScratch.cs" />
+    <Compile Remove="Migrations\20201218225300_NewFromScratch.Designer.cs" />
+    <Compile Remove="Migrations\20201219060814_enumuratedTypeAdded.cs" />
+    <Compile Remove="Migrations\20201219060814_enumuratedTypeAdded.Designer.cs" />
+>>>>>>> e9090f6e418297e669cdd96151cc1b2bd1b5c719
+    <Compile Remove="Models\Adminstrator.cs" />
+    <Compile Remove="Models\BussinessAnalyst.cs" />
+    <Compile Remove="Models\ProjectManager.cs" />
+    <Compile Remove="Models\QualityController.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.Google" Version="3.1.9" />
+    <PackageReference Include="Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore" Version="3.1.9" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="3.1.9" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="3.1.9" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="3.1.10" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.10" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="3.1.10">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.1.4" />
+    <PackageReference Include="SendGrid" Version="9.21.1" />
+    <PackageReference Include="WestWind.AspnetCore.LiveReload" Version="0.3.0" />
+    <PackageReference Include="YenePay.YenePaySDK.Core" Version="1.0.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Areas\Customer\Controllers\" />
+    <Folder Include="Areas\Customer\Data\" />
+    <Folder Include="Areas\Customer\Models\" />
+    <Folder Include="Areas\Customer\Views\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="Views\Customers\Create.cshtml" />
+    <None Include="Views\Customers\Delete.cshtml" />
+    <None Include="Views\Customers\Details.cshtml" />
+    <None Include="Views\Customers\Edit.cshtml" />
+    <None Include="Views\Customers\Index.cshtml" />
+    <None Include="Views\Jobs\Create.cshtml" />
+    <None Include="Views\Jobs\Delete.cshtml" />
+    <None Include="Views\Jobs\Details.cshtml" />
+    <None Include="Views\Jobs\Edit.cshtml" />
+    <None Include="Views\Jobs\Index.cshtml" />
+    <None Include="wwwroot\startbootstrap-agency-gh-pages\assets\img\close-icon.svg" />
+    <None Include="wwwroot\startbootstrap-agency-gh-pages\assets\img\navbar-logo.svg" />
+    <None Include="wwwroot\startbootstrap-agency-gh-pages\assets\mail\contact_me.js" />
+    <None Include="wwwroot\startbootstrap-agency-gh-pages\assets\mail\contact_me.php" />
+    <None Include="wwwroot\startbootstrap-agency-gh-pages\assets\mail\jqBootstrapValidation.js" />
+    <None Include="wwwroot\startbootstrap-agency-gh-pages\js\scripts.js" />
+  </ItemGroup>
+
+</Project>

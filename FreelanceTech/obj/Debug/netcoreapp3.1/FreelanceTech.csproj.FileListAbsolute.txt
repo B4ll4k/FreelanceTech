@@ -1,0 +1,1158 @@
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.json
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.local.json
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\FreelanceTech.StaticWebAssets.xml
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\FreelanceTech.exe
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\FreelanceTech.deps.json
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\FreelanceTech.runtimeconfig.json
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\FreelanceTech.runtimeconfig.dev.json
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\FreelanceTech.dll
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\FreelanceTech.pdb
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\FreelanceTech.Views.dll
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\FreelanceTech.Views.pdb
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\FreelanceTech.csprojAssemblyReference.cache
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\FreelanceTech.AssemblyInfoInputs.cache
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\FreelanceTech.AssemblyInfo.cs
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\FreelanceTech.RazorAssemblyInfo.cache
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\FreelanceTech.RazorAssemblyInfo.cs
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\FreelanceTech.TagHelpers.input.cache
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\FreelanceTech.TagHelpers.output.cache
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\FreelanceTech.RazorCoreGenerate.cache
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\FreelanceTech.RazorTargetAssemblyInfo.cache
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\FreelanceTech.RazorTargetAssemblyInfo.cs
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\FreelanceTech.Views.pdb
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\FreelanceTech.csproj.CopyComplete
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\staticwebassets\FreelanceTech.StaticWebAssets.Manifest.cache
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\staticwebassets\FreelanceTech.StaticWebAssets.xml
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\FreelanceTech.dll
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\FreelanceTech.pdb
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\FreelanceTech.genruntimeconfig.cache
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmailChange.cshtml.g.cs
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Email.cshtml.g.cs
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ShowRecoveryCodes.cshtml.g.cs
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\RegisterConfirmation.cshtml.g.cs
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_StatusMessage.cshtml.g.cs
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\SendGrid.dll
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\StarkbankEcdsa.dll
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\FreelanceTech.csproj.CoreCompileInputs.cache
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\FreelanceTech.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Adonias\source\repos\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\FreelanceTech.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\FreelanceTech.StaticWebAssets.xml
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\FreelanceTech.exe
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\FreelanceTech.deps.json
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\FreelanceTech.runtimeconfig.json
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\FreelanceTech.runtimeconfig.dev.json
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\FreelanceTech.dll
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\FreelanceTech.pdb
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\FreelanceTech.Views.dll
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\FreelanceTech.Views.pdb
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\SendGrid.dll
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\StarkbankEcdsa.dll
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\FreelanceTech.csprojAssemblyReference.cache
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\FreelanceTech.AssemblyInfoInputs.cache
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\FreelanceTech.AssemblyInfo.cs
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\FreelanceTech.csproj.CoreCompileInputs.cache
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\FreelanceTech.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\FreelanceTech.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\FreelanceTech.RazorAssemblyInfo.cache
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\FreelanceTech.RazorAssemblyInfo.cs
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\staticwebassets\FreelanceTech.StaticWebAssets.Manifest.cache
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\staticwebassets\FreelanceTech.StaticWebAssets.xml
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\scopedcss\bundle\FreelanceTech.styles.css
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\FreelanceTech.TagHelpers.input.cache
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\FreelanceTech.TagHelpers.output.cache
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\FreelanceTech.RazorCoreGenerate.cache
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmailChange.cshtml.g.cs
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Email.cshtml.g.cs
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ShowRecoveryCodes.cshtml.g.cs
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\RegisterConfirmation.cshtml.g.cs
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_StatusMessage.cshtml.g.cs
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\FreelanceTech.RazorTargetAssemblyInfo.cache
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\FreelanceTech.RazorTargetAssemblyInfo.cs
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\FreelanceTech.Views.pdb
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\FreelanceTech.csproj.CopyComplete
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\FreelanceTech.dll
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\FreelanceTech.pdb
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\FreelanceTech.genruntimeconfig.cache
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Beamlak\Downloads\Telegram Desktop\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Views\Home\Register.cshtml.g.cs
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\appsettings.json
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.json
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.local.json
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\FreelanceTech.StaticWebAssets.xml
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\FreelanceTech.exe
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\FreelanceTech.deps.json
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\FreelanceTech.runtimeconfig.json
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\FreelanceTech.runtimeconfig.dev.json
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\FreelanceTech.dll
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\FreelanceTech.pdb
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\FreelanceTech.Views.dll
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\FreelanceTech.Views.pdb
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\SendGrid.dll
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\StarkbankEcdsa.dll
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\FreelanceTech.csprojAssemblyReference.cache
+E:\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\FreelanceTech.AssemblyInfoInputs.cache
+E:\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\FreelanceTech.AssemblyInfo.cs
+E:\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\FreelanceTech.RazorAssemblyInfo.cache
+E:\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\FreelanceTech.RazorAssemblyInfo.cs
+E:\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\FreelanceTech.TagHelpers.input.cache
+E:\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\FreelanceTech.TagHelpers.output.cache
+E:\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\FreelanceTech.RazorCoreGenerate.cache
+E:\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+E:\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+E:\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmailChange.cshtml.g.cs
+E:\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+E:\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+E:\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+E:\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+E:\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+E:\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+E:\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+E:\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+E:\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+E:\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+E:\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+E:\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+E:\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Email.cshtml.g.cs
+E:\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+E:\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+E:\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+E:\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+E:\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+E:\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+E:\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+E:\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ShowRecoveryCodes.cshtml.g.cs
+E:\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+E:\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+E:\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+E:\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+E:\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+E:\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+E:\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\RegisterConfirmation.cshtml.g.cs
+E:\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+E:\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+E:\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_StatusMessage.cshtml.g.cs
+E:\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+E:\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
+E:\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+E:\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+E:\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+E:\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Views\Home\Register.cshtml.g.cs
+E:\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+E:\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\FreelanceTech.RazorTargetAssemblyInfo.cache
+E:\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\FreelanceTech.RazorTargetAssemblyInfo.cs
+E:\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\FreelanceTech.Views.pdb
+E:\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\FreelanceTech.csproj.CopyComplete
+E:\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\staticwebassets\FreelanceTech.StaticWebAssets.Manifest.cache
+E:\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\staticwebassets\FreelanceTech.StaticWebAssets.xml
+E:\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\FreelanceTech.dll
+E:\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\FreelanceTech.pdb
+E:\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\FreelanceTech.genruntimeconfig.cache
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+E:\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+E:\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\FreelanceTech.csproj.CoreCompileInputs.cache
+E:\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\FreelanceTech.MvcApplicationPartsAssemblyInfo.cs
+E:\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\FreelanceTech.MvcApplicationPartsAssemblyInfo.cache
+E:\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Views\FreelancerUsers\Create.cshtml.g.cs
+E:\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Views\FreelancerUsers\Delete.cshtml.g.cs
+E:\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Views\FreelancerUsers\Details.cshtml.g.cs
+E:\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Views\FreelancerUsers\Edit.cshtml.g.cs
+E:\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Views\FreelancerUsers\Index.cshtml.g.cs
+E:\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Views\Customers\Create.cshtml.g.cs
+E:\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Views\Customers\Delete.cshtml.g.cs
+E:\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Views\Customers\Details.cshtml.g.cs
+E:\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Views\Customers\Edit.cshtml.g.cs
+E:\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Views\Customers\Index.cshtml.g.cs
+E:\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Views\Adminstrators\Create.cshtml.g.cs
+E:\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Views\Adminstrators\Delete.cshtml.g.cs
+E:\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Views\Adminstrators\Details.cshtml.g.cs
+E:\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Views\Adminstrators\Edit.cshtml.g.cs
+E:\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Views\Adminstrators\Index.cshtml.g.cs
+E:\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Views\Jobs\Create.cshtml.g.cs
+E:\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Views\Jobs\Delete.cshtml.g.cs
+E:\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Views\Jobs\Details.cshtml.g.cs
+E:\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Views\Jobs\Edit.cshtml.g.cs
+E:\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Views\Jobs\Index.cshtml.g.cs
+E:\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Views\Categories\Create.cshtml.g.cs
+E:\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Views\Categories\Delete.cshtml.g.cs
+E:\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Views\Categories\Details.cshtml.g.cs
+E:\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Views\Categories\Edit.cshtml.g.cs
+E:\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Views\Categories\Index.cshtml.g.cs
+E:\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Views\Bids\Create.cshtml.g.cs
+E:\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Views\Bids\Delete.cshtml.g.cs
+E:\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Views\Bids\Details.cshtml.g.cs
+E:\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Views\Bids\Edit.cshtml.g.cs
+E:\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Views\Bids\Index.cshtml.g.cs
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\FreelanceTech.StaticWebAssets.xml
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\FreelanceTech.exe
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\FreelanceTech.deps.json
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\FreelanceTech.runtimeconfig.json
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\FreelanceTech.runtimeconfig.dev.json
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\FreelanceTech.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\FreelanceTech.pdb
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\FreelanceTech.Views.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\FreelanceTech.Views.pdb
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\SendGrid.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\StarkbankEcdsa.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\FreelanceTech.csprojAssemblyReference.cache
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\FreelanceTech.AssemblyInfoInputs.cache
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\FreelanceTech.AssemblyInfo.cs
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\FreelanceTech.csproj.CoreCompileInputs.cache
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\FreelanceTech.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\FreelanceTech.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\FreelanceTech.RazorAssemblyInfo.cache
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\FreelanceTech.RazorAssemblyInfo.cs
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\staticwebassets\FreelanceTech.StaticWebAssets.Manifest.cache
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\staticwebassets\FreelanceTech.StaticWebAssets.xml
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\scopedcss\bundle\FreelanceTech.styles.css
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\FreelanceTech.TagHelpers.input.cache
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\FreelanceTech.TagHelpers.output.cache
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\FreelanceTech.RazorCoreGenerate.cache
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmailChange.cshtml.g.cs
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Email.cshtml.g.cs
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ShowRecoveryCodes.cshtml.g.cs
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\RegisterConfirmation.cshtml.g.cs
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_StatusMessage.cshtml.g.cs
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Views\Home\Register.cshtml.g.cs
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\FreelanceTech.RazorTargetAssemblyInfo.cache
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\FreelanceTech.RazorTargetAssemblyInfo.cs
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\FreelanceTech.Views.pdb
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\FreelanceTech.csproj.CopyComplete
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\FreelanceTech.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\FreelanceTech.pdb
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\FreelanceTech.genruntimeconfig.cache
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout1.cshtml.g.cs
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_signIn(Layout).cshtml.g.cs
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Westwind.AspNetCore.LiveReload.dll
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.Google.dll
+<<<<<<< HEAD
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\FreelanceTech.StaticWebAssets.xml
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\FreelanceTech.exe
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\FreelanceTech.deps.json
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\FreelanceTech.runtimeconfig.json
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\FreelanceTech.runtimeconfig.dev.json
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\FreelanceTech.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\FreelanceTech.pdb
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\FreelanceTech.Views.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\FreelanceTech.Views.pdb
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.Google.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\SendGrid.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\StarkbankEcdsa.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\Westwind.AspNetCore.LiveReload.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\FreelanceTech.csprojAssemblyReference.cache
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\FreelanceTech.AssemblyInfoInputs.cache
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\FreelanceTech.AssemblyInfo.cs
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\FreelanceTech.csproj.CoreCompileInputs.cache
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\FreelanceTech.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\FreelanceTech.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\FreelanceTech.RazorAssemblyInfo.cache
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\FreelanceTech.RazorAssemblyInfo.cs
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\staticwebassets\FreelanceTech.StaticWebAssets.Manifest.cache
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\staticwebassets\FreelanceTech.StaticWebAssets.xml
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\scopedcss\bundle\FreelanceTech.styles.css
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\FreelanceTech.TagHelpers.input.cache
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\FreelanceTech.TagHelpers.output.cache
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\FreelanceTech.RazorCoreGenerate.cache
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmailChange.cshtml.g.cs
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Email.cshtml.g.cs
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ShowRecoveryCodes.cshtml.g.cs
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\RegisterConfirmation.cshtml.g.cs
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_StatusMessage.cshtml.g.cs
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Views\Home\Register.cshtml.g.cs
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout1.cshtml.g.cs
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_signIn(Layout).cshtml.g.cs
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\FreelanceTech.RazorTargetAssemblyInfo.cache
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\FreelanceTech.RazorTargetAssemblyInfo.cs
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\FreelanceTech.Views.pdb
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\FreelanceTech.csproj.CopyComplete
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\FreelanceTech.dll
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\FreelanceTech.pdb
+C:\Users\Beamlak\Source\Repos\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\FreelanceTech.genruntimeconfig.cache
+C:\Users\Beamlak\source\repos\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Views\Freelancer\SubmitProposal.cshtml.g.cs
+C:\Users\Beamlak\source\repos\FreelanceTech\FreelanceTech\bin\Debug\netcoreapp3.1\YenePaySDK.Core.dll
+C:\Users\Beamlak\source\repos\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Views\Freelancer\DepositToWallet.cshtml.g.cs
+||||||| 42140b4
+=======
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Views\Freelancers\Create.cshtml.g.cs
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Views\Freelancers\Delete.cshtml.g.cs
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Views\Freelancers\Details.cshtml.g.cs
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Views\Freelancers\Edit.cshtml.g.cs
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Views\Freelancers\Index.cshtml.g.cs
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Views\Shared\DashboardLayout.cshtml.g.cs
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Views\Wallets\Create.cshtml.g.cs
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Views\Wallets\Delete.cshtml.g.cs
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Views\Wallets\Details.cshtml.g.cs
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Views\Wallets\Edit.cshtml.g.cs
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Views\Wallets\Index.cshtml.g.cs
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Views\Freelancers\Register.cshtml.g.cs
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Views\Customers\Create.cshtml.g.cs
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Views\Customers\Delete.cshtml.g.cs
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Views\Customers\Details.cshtml.g.cs
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Views\Customers\Edit.cshtml.g.cs
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Views\Customers\Index.cshtml.g.cs
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Views\Jobs\Create.cshtml.g.cs
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Views\Jobs\Delete.cshtml.g.cs
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Views\Jobs\Details.cshtml.g.cs
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Views\Jobs\Edit.cshtml.g.cs
+C:\Users\Awhole\source\repos\Dawit-DNA\FreelanceTech\FreelanceTech\obj\Debug\netcoreapp3.1\Razor\Views\Jobs\Index.cshtml.g.cs
+>>>>>>> e9090f6e418297e669cdd96151cc1b2bd1b5c719

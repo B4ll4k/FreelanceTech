@@ -1,0 +1,15 @@
+﻿@model Proposal
+
+    <div>
+        <form asp-controller="Freelancer" asp-action="SubmitProposal" method="post" class="mt-3">
+            <div>
+                <label asp-for="cover">Cover Letter</label> <br />
+                <textarea asp-for="cover" cols="80" rows="20"></textarea> <br />
+            </div>
+            <div>
+                <label asp-for="description">Answer Question</label> <br />
+                <textarea asp-for="description" cols="80" rows="20"></textarea> <br />
+            </div>
+            <button type="submit" class="btn btn-primary">Submit</button>
+        </form>
+    </div>

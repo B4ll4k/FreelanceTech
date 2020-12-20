@@ -1,0 +1,11 @@
+﻿@model Wallet
+
+<div>
+    <form asp-controller="Freelancer" asp-action="CheckoutExpress" method="post" class="mt-3">
+        <div>
+            <label asp-for="balance">Enter Amount</label> <br />
+            <input asp-for="balance" class="form-control" width="30"/>
+            <button type="submit" class="btn btn-primary">Submit</button>
+        </div>
+    </form>
+</div>

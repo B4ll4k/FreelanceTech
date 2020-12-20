@@ -1,0 +1,131 @@
+﻿@model IEnumerable<FreelanceTech.Models.Job>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.status)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.title)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.category)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.startDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.endDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.startPrice)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.endPrice)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.level)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Payment_Amount)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Customer)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.freelancerId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.contractId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.businessAnalystId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.comment)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.rate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.description)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.postedDate)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.status)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.title)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.category)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.startDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.endDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.startPrice)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.endPrice)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.level)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Payment_Amount)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Customer.customerId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.freelancerId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.contractId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.businessAnalystId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.comment)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.rate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.description)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.postedDate)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.jobId">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.jobId">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.jobId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

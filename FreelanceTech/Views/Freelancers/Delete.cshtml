@@ -1,0 +1,93 @@
+﻿@model FreelanceTech.Models.Freelancer
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<h2>Delete</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>Freelancer</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.phoneNumber)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.phoneNumber)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.education)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.education)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.id)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.id)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.englishProficiency)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.englishProficiency)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.hourlyRate)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.hourlyRate)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.title)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.title)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.professionalOverview)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.professionalOverview)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.photo)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.photo)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.legaID)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.legaID)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.rate)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.rate)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.score)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.score)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.status)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.status)
+        </dd>
+    </dl>
+    
+    <form asp-action="Delete">
+        <input type="hidden" asp-for="freelancerId" />
+        <input type="submit" value="Delete" class="btn btn-default" /> |
+        <a asp-action="Index">Back to List</a>
+    </form>
+</div>

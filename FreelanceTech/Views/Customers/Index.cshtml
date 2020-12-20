@@ -1,0 +1,264 @@
+﻿@model IEnumerable<FreelanceTech.Models.Customer>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "DashboardLayout";
+}
+<head>
+    <!-- Bootstrap -->
+    <link href="../gentelella-master/vendors/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Font Awesome -->
+    <link href="../gentelella-master/vendors/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+    <!-- NProgress -->
+    <link href="../gentelella-master/vendors/nprogress/nprogress.css" rel="stylesheet">
+    <!-- iCheck -->
+    <link href="../gentelella-master/vendors/iCheck/skins/flat/green.css" rel="stylesheet">
+
+    <!-- Custom Theme Style -->
+    <link href="../gentelella-master/build/css/custom.min.css" rel="stylesheet">
+</head>
+<body>
+    <div class="right_col" role="main">
+
+
+        <div class="">
+            <div class="page-title">
+                <div class="title_left">
+                    <h3>Your Dashboard </h3>
+                </div>
+
+                <div class="title_right">
+                    <div class="col-md-5 col-sm-5  form-group pull-right top_search">
+                        <div class="input-group">
+                            <input type="text" class="form-control" placeholder="Search for...">
+                            <span class="input-group-btn">
+                                <button class="btn btn-secondary" type="button">Go!</button>
+                            </span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        <div class="clearfix"></div>
+        <div class="col-md-12 col-sm-12 ">
+            <div class="x_panel">
+                <div class="x_title">
+                    <h2>Customer<small>Upload Job</small></h2>
+                    <ul class="nav navbar-right panel_toolbox">
+                        <li>
+                            <a class="collapse-link"><i class="fa fa-chevron-up"></i></a>
+                        </li>
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false"><i class="fa fa-wrench"></i></a>
+                            <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                                <a class="dropdown-item" href="#">Settings 1</a>
+                                <a class="dropdown-item" href="#">Settings 2</a>
+                            </div>
+                        </li>
+                        <li>
+                            <a class="close-link"><i class="fa fa-close"></i></a>
+                        </li>
+                    </ul>
+                    <div class="clearfix"></div>
+                </div>
+
+                <div class=" col-md-10 col-sm-10  ">
+                    <div class="x_panel">
+
+                        <div class="x_content">
+
+                            <div class="bs-example" data-example-id="simple-jumbotron">
+                                <div class="jumbotron">
+                                    <h1>Hello, world!</h1>
+                                    <p>This is a simple hero unit, a simple jumbotron-style component for calling extra attention to featured content or information.</p>
+                                </div>
+
+
+                                <div class="x_panel">
+                                    <div class="x_title">
+                                        <h2>Post New Job</h2>
+                                        <ul class="nav navbar-right panel_toolbox">
+                                            <li>
+                                                <a class="collapse-link"><i class="fa fa-chevron-up"></i></a>
+                                            </li>
+                                            <li class="dropdown">
+                                                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+                                                    <i class="fa fa-wrench"></i>
+                                                </a>
+                                                <ul class="dropdown-menu" role="menu">
+                                                    <li>
+                                                        <a href="#">Settings 1</a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="#">Settings 2</a>
+                                                    </li>
+                                                </ul>
+                                            </li>
+                                            <li>
+                                                <a class="close-link"><i class="fa fa-close"></i></a>
+                                            </li>
+                                        </ul>
+                                        <div class="clearfix"></div>
+                                    </div>
+                                    <div class="x_content">
+                                        <div class="buttons center">
+                                            <button type="button" class="btn btn-success btn-lg">Creat Job</button>
+                                        </div>
+                                    </div>
+
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class=" col-md-10 col-sm-10">
+
+                    <h4>Propposed Offer</h4>
+
+                    <!-- end of user messages -->
+                    <ul class="messages">
+                        <li>
+                            <img src="../gentelella-master/production/images/img.jpg" class="avatar" alt="Avatar">
+                            <div class="message_date">
+                                <h3 class="date text-info">24</h3>
+                                <p class="month">May</p>
+                            </div>
+                            <div class="message_wrapper">
+                                <h4 class="heading">Desmond Davison</h4>
+                                <blockquote class="message">Raw denim you probably haven't heard of them jean shorts Austin. Nesciunt tofu stumptown aliqua butcher retro keffiyeh dreamcatcher synth.</blockquote>
+                                <br />
+                                <p class="url">
+                                    <span class="fs1 text-info" aria-hidden="true" data-icon=""></span>
+                                    <a href="#"><i class="fa fa-paperclip"></i> User Acceptance Test.doc </a>
+                                </p>
+                            </div>
+                        </li>
+                        <li>
+                            <img src="../gentelella-master/production/images/img.jpg" class="avatar" alt="Avatar">
+                            <div class="message_date">
+                                <h3 class="date text-error">21</h3>
+                                <p class="month">May</p>
+                            </div>
+                            <div class="message_wrapper">
+                                <h4 class="heading">Brian Michaels</h4>
+                                <blockquote class="message">Raw denim you probably haven't heard of them jean shorts Austin. Nesciunt tofu stumptown aliqua butcher retro keffiyeh dreamcatcher synth.</blockquote>
+                                <br />
+                                <p class="url">
+                                    <span class="fs1" aria-hidden="true" data-icon=""></span>
+                                    <a href="#" data-original-title="">Download</a>
+                                </p>
+                            </div>
+                        </li>
+                        <li>
+                            <img src="../gentelella-master/production/images/img.jpg" class="avatar" alt="Avatar">
+                            <div class="message_date">
+                                <h3 class="date text-info">24</h3>
+                                <p class="month">May</p>
+                            </div>
+                            <div class="message_wrapper">
+                                <h4 class="heading">Desmond Davison</h4>
+                                <blockquote class="message">Raw denim you probably haven't heard of them jean shorts Austin. Nesciunt tofu stumptown aliqua butcher retro keffiyeh dreamcatcher synth.</blockquote>
+                                <br />
+                                <p class="url">
+                                    <span class="fs1 text-info" aria-hidden="true" data-icon=""></span>
+                                    <a href="#"><i class="fa fa-paperclip"></i> User Acceptance Test.doc </a>
+                                </p>
+                            </div>
+                        </li>
+                    </ul>
+                    <!-- end of user messages -->
+                    </divclass=">
+
+
+                </div>
+            </div>
+        </div>
+
+
+
+
+        <!-- jQuery -->
+        <script src="../gentelella-master/vendors/jquery/dist/jquery.min.js"></script>
+        <!-- Bootstrap -->
+        <script src="../gentelella-master/vendors/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+        <!-- FastClick -->
+        <script src="../gentelella-master/vendors/fastclick/lib/fastclick.js"></script>
+        <!-- NProgress -->
+        <script src="../gentelella-master/vendors/nprogress/nprogress.js"></script>
+        <!-- ECharts -->
+        <script src="../gentelella-master/vendors/echarts/dist/echarts.min.js"></script>
+
+        <!-- Custom Theme Scripts -->
+        <script src="../gentelella-master/build/js/custom.min.js"></script>
+</body>
+
+@*<h2>Index</h2>
+
+    <p>
+        <a asp-action="Create">Create New</a>
+    </p>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.photo)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.legalId)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.status)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.language)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.phoneNumber)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.englishProficiency)
+                </th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+    @foreach (var item in Model) {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.photo)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.legalId)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.status)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.language)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.phoneNumber)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.englishProficiency)
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.customerId">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@item.customerId">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@item.customerId">Delete</a>
+                </td>
+            </tr>
+    }
+        </tbody>
+    </table>*@
+
+
+
+
+
+

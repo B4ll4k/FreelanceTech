@@ -1,0 +1,192 @@
+﻿@model IEnumerable<FreelanceTech.Models.Wallet>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "DashboardLayout";
+}
+
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <!-- Meta, title, CSS, favicons, etc. -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Gentelella Alela! | </title>
+
+    <!-- Bootstrap -->
+    <link href="../gentelella-master/vendors/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Font Awesome -->
+    <link href="../gentelella-master/vendors/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+    <!-- NProgress -->
+    <link href="../gentelella-master/vendors/nprogress/nprogress.css" rel="stylesheet">
+    <!-- bootstrap-progressbar -->
+    <link href="../gentelella-master/vendors/bootstrap-progressbar/css/bootstrap-progressbar-3.3.4.min.css" rel="stylesheet">
+    <!-- bootstrap-daterangepicker -->
+    <link href="../gentelella-master/vendors/bootstrap-daterangepicker/daterangepicker.css" rel="stylesheet">
+
+    <!-- Custom Theme Style -->
+    <link href="../gentelella-master/build/css/custom.min.css" rel="stylesheet">
+</head>
+@*<h2>Index</h2>
+
+    <p>
+        <a asp-action="Create">Create New</a>
+    </p>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.balance)
+                </th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+    @foreach (var item in Model) {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.balance)
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.userId">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@item.userId">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@item.userId">Delete</a>
+                </td>
+            </tr>
+    }
+        </tbody>
+    </table>
+*@
+<body>
+
+    <div class="x_panel text-md-center">
+        <h2>Account Balance</h2>
+        <h1>$ 231,809</h1>
+        <span class="sparkline_one" style="height: 160px;">
+            <canvas width="200" height="60" style="display: inline-block; vertical-align : central; width: 94px; height: 30px;"></canvas>
+        </span>
+    </div>
+    <div class=" x_panel text-md-center">
+        <button type="button" class="btn btn-round btn-success">Deposit</button>
+        <button type="button" class="btn btn-round btn-success">Withdraw</button>
+
+    </div>
+
+    <div class="x_panel text-md-center">
+
+        <div class="x_title">
+            <h2>Payment Pending <small>Stripped table subtitle</small></h2>
+            <ul class="nav navbar-right panel_toolbox">
+                <li>
+                    <a class="collapse-link"><i class="fa fa-chevron-up"></i></a>
+                </li>
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false"><i class="fa fa-wrench"></i></a>
+                    <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                        <a class="dropdown-item" href="#">Settings 1</a>
+                        <a class="dropdown-item" href="#">Settings 2</a>
+                    </div>
+                </li>
+                <li>
+                    <a class="close-link"><i class="fa fa-close"></i></a>
+                </li>
+            </ul>
+            <div class="clearfix"></div>
+        </div>
+        <div class="x_content">
+
+            <table class="table table-striped">
+                <thead>
+                    <tr>
+                        <th>#</th>
+                        <th>First Name</th>
+                        <th>Last Name</th>
+                        <th>Username</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <th scope="row">1</th>
+                        <td>Mark</td>
+                        <td>Otto</td>
+                        <td>mdo</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">2</th>
+                        <td>Jacob</td>
+                        <td>Thornton</td>
+                        <td>fat</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">3</th>
+                        <td>Larry</td>
+                        <td>the Bird</td>
+                        <td>twitter</td>
+                    </tr>
+                </tbody>
+            </table>
+
+        </div>
+
+    </div>
+
+    @*  <div class="col-md-3 col-sm-3  tile">
+            <span>Total Sessions</span>
+            <h2>231,809</h2>
+            <span class="sparkline_one" style="height: 160px;">
+                <canvas width="200" height="60" style="display: inline-block; vertical-align: top; width: 94px; height: 125px;"></canvas>
+            </span>
+        </div>
+        <div class="col-md-3 col-sm-3  tile">
+            <span>Total Sessions</span>
+            <h2>231,809</h2>
+            <span class="sparkline_one" style="height: 160px;">
+                <canvas width="200" height="60" style="display: inline-block; vertical-align: top; width: 94px; height: 30px;"></canvas>
+            </span>
+        </div>*@
+
+
+
+    <br />
+    <!-- jQuery -->
+    <script src="../gentelella-master/vendors/jquery/dist/jquery.min.js"></script>
+    <!-- Bootstrap -->
+    <script src="../gentelella-master/vendors/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <!-- FastClick -->
+    <script src="../gentelella-master/vendors/fastclick/lib/fastclick.js"></script>
+    <!-- NProgress -->
+    <script src="../gentelella-master/vendors/nprogress/nprogress.js"></script>
+    <!-- Chart.js -->
+    <script src="../gentelella-master/vendors/Chart.js/dist/Chart.min.js"></script>
+    <!-- jQuery Sparklines -->
+    <script src="../gentelella-master/vendors/jquery-sparkline/dist/jquery.sparkline.min.js"></script>
+    <!-- morris.js -->
+    <script src="../gentelella-master/vendors/raphael/raphael.min.js"></script>
+    <script src="../gentelella-master/vendors/morris.js/morris.min.js"></script>
+    <!-- gauge.js -->
+    <script src="../gentelella-master/vendors/gauge.js/dist/gauge.min.js"></script>
+    <!-- bootstrap-progressbar -->
+    <script src="../gentelella-master/vendors/bootstrap-progressbar/bootstrap-progressbar.min.js"></script>
+    <!-- Skycons -->
+    <script src="../gentelella-master/vendors/skycons/skycons.js"></script>
+    <!-- Flot -->
+    <script src="../gentelella-master/vendors/Flot/jquery.flot.js"></script>
+    <script src="../gentelella-master/vendors/Flot/jquery.flot.pie.js"></script>
+    <script src="../gentelella-master/vendors/Flot/jquery.flot.time.js"></script>
+    <script src="../gentelella-master/vendors/Flot/jquery.flot.stack.js"></script>
+    <script src="../gentelella-master/vendors/Flot/jquery.flot.resize.js"></script>
+    <!-- Flot plugins -->
+    <script src="../gentelella-master/vendors/flot.orderbars/js/jquery.flot.orderBars.js"></script>
+    <script src="../gentelella-master/vendors/flot-spline/js/jquery.flot.spline.min.js"></script>
+    <script src="../gentelella-master/vendors/flot.curvedlines/curvedLines.js"></script>
+    <!-- DateJS -->
+    <script src="../vendors/DateJS/build/date.js"></script>
+    <!-- bootstrap-daterangepicker -->
+    <script src="../gentelella-master/vendors/moment/min/moment.min.js"></script>
+    <script src="../gentelella-master/vendors/bootstrap-daterangepicker/daterangepicker.js"></script>
+
+    <!-- Custom Theme Scripts -->
+    <script src="../gentelella-master/build/js/custom.min.js"></script>
+</body>
